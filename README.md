@@ -8,4 +8,4 @@
 
 ### Result: 
 **Got an accuracy of 0.78877 on NaiveBayes and accuracy of 0.79183 on SVC**
-> - Improvemnet can be made by tuning the Parameter values for SVC
+> - **Improvemnet can be made by tuning the Parameter values for SVC**
